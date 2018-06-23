@@ -99,6 +99,7 @@
 
 .text-white {
     color: #ffffff !important;
+    text-transform: capitalize;
 }
 
 .text-white a {
