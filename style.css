@@ -54,7 +54,8 @@ a:hover {
 }
 
 img {
-    height: auto;
+    width:177px;
+   /* height: 43px;*/
 }
 
 h1,
