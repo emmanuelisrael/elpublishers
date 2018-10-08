@@ -99,6 +99,7 @@
 
 .text-white {
     color: #ffffff !important;
+    text-transform: capitalize;
 }
 
 .text-white a {
@@ -263,7 +264,7 @@
 }
 
 #mainmenu li.active a {
-    color: #fec826;
+    color: #2352c5;
 }
 
 #mainmenu li a::after {
